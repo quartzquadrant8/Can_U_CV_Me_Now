@@ -35,7 +35,8 @@ Follow these steps to get the GitHub Project Builder running in your Termux envi
     ```
     Download the `deploy-app.sh` script:
     ```bash
-    curl -O [https://raw.githubusercontent.com/your_username/github-app-deploy/main/deploy-app.sh](https://raw.githubusercontent.com/your_username/github-app-deploy/main/deploy-app.sh)
+    curl -O "https://raw.githubusercontent.com/your_user_name/Can_U_CV_Me_Now/main/deploy-app.sh"
+
     ```
     **IMPORTANT:** You **must** replace `your_username` with your actual GitHub username and `github-app-deploy` with the exact name of the repository you just created where you're hosting this script.
 
